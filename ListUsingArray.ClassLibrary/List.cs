@@ -1,34 +1,18 @@
-﻿// -------------------------------------------------------------------+
-// This file containing the List class. This class representing a list
-// which is implemented using an array.
-// -------------------------------------------------------------------+
-
-using System;
+﻿using System;
 
 namespace ListUsingArray.ClassLibrary
 {
-    /// <summary>
-    /// Impliments list using an array.
-    /// </summary>
     public class List
     {
         private int[] _list;
         private int _numberOfElementInList;
 
-        /// <summary>
-        /// Parameterised constructor.
-        /// </summary>
-        /// <param name="sizeOfList">Size of the list.</param>
         public List(int sizeOfList)
         {
             _numberOfElementInList = sizeOfList;
             _list = new int[sizeOfList];
         }
 
-        /// <summary>
-        /// Perform operation on list.
-        /// </summary>
-        /// <param name="mode">Mode of the operation on list.</param>
         public void PerformOperationOnList(OperationMode mode)
         {
             int position;

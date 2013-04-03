@@ -1,9 +1,4 @@
-﻿// -----------------------------------------------------------------+
-// This file containing the Program class to test the logic which is 
-// written inside the class library.
-// -----------------------------------------------------------------+
-
-using System;
+﻿using System;
 using ListUsingArray.ClassLibrary;
 
 namespace ListUsingArray.ConsoleApplication

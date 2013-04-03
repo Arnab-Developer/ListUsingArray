@@ -19,5 +19,5 @@ In a list I am going to do five operations.
 1.Display 
 2.Search 
 3.Count 
-4.Insert 
+4.Insert
 5.Delete 

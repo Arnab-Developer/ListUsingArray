@@ -1,0 +1,9 @@
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ConsoleApplication.exe
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ConsoleApplication.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ClassLibrary.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ClassLibrary.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\obj\Release\ListUsingArray.ConsoleApplication.exe
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\obj\Release\ListUsingArray.ConsoleApplication.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ConsoleApplication.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ConsoleApplication\bin\Release\ListUsingArray.ClassLibrary.xml

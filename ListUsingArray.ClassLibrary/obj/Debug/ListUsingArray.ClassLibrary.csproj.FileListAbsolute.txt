@@ -1,0 +1,6 @@
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\bin\Debug\ListUsingArray.ClassLibrary.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\bin\Debug\ListUsingArray.ClassLibrary.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\obj\Debug\ListUsingArray.ClassLibrary.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\obj\Debug\ListUsingArray.ClassLibrary.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\ListUsingArray\ListUsingArray.ClassLibrary\bin\Debug\ListUsingArray.ClassLibrary.xml

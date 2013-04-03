@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ListUsingArray.ClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ListUsingArray.ClassLibrary.List">
+            <summary>
+            Impliments list using an array.
+            </summary>
+        </member>
+        <member name="M:ListUsingArray.ClassLibrary.List.#ctor(System.Int32)">
+            <summary>
+            Parameterised constructor.
+            </summary>
+            <param name="sizeOfList">Size of the list.</param>
+        </member>
+        <member name="M:ListUsingArray.ClassLibrary.List.PerformOperationOnList(ListUsingArray.ClassLibrary.OperationMode)">
+            <summary>
+            Perform operation on list.
+            </summary>
+            <param name="mode">Mode of the operation on list.</param>
+        </member>
+        <member name="T:ListUsingArray.ClassLibrary.OperationMode">
+            <summary>
+            Mode of operation on list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Input">
+            <summary>
+            Input into list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Insert">
+            <summary>
+            Insert item into list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Search">
+            <summary>
+            Search from list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Delete">
+            <summary>
+            Delete item from list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Display">
+            <summary>
+            Display items from list.
+            </summary>
+        </member>
+        <member name="F:ListUsingArray.ClassLibrary.OperationMode.Quit">
+            <summary>
+            Close the application.
+            </summary>
+        </member>
+    </members>
+</doc>
